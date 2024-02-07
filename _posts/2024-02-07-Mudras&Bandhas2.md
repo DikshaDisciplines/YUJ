@@ -1,5 +1,5 @@
 ---
-title: Mudras & Bandhas
+title: Harmony of Body, Mind, and Spirit
 author: Yuj
 date: 2024-02-07 11:55:00 +0800
 categories: [Body, Soul]
@@ -7,6 +7,7 @@ tags: [mudras, bandha]
 pin: true
 img_path: '/posts/20180809'
 ---
+
 # Mudras and Bandhas: Unveiling the Secrets of Hatha Yoga
 
 In the realm of Hatha Yoga, mudras and bandhas are two profound techniques that hold the key to unlocking the secrets of consciousness, energy, and spiritual awakening. Let's embark on a journey to understand these practices and discover their transformative power.
