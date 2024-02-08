@@ -2,8 +2,8 @@
 title: Mudras & Bandhas
 author: Yuj
 date: 2024-02-06 10:55:00 +0800
-categories: [Body, Mind, Soul, Thoughts, Emotion, Intellect]
-tags: [Mudras, Bandhas]
+categories: [Body, Soul]
+tags: [mudras, bandha]
 pin: true
 img_path: '/posts/20180809'
 ---
