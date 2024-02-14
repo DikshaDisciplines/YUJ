@@ -1,5 +1,5 @@
 ---
-title: Pregnancy Journey
+title: Pregnancy Yoga
 author: Yuj
 date: 2024-01-14 11:55:00 +0800
 categories: [Mind, Body]
