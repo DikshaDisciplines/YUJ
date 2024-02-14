@@ -3,7 +3,7 @@ title: Pregnancy Journey
 author: Yuj
 date: 2024-01-13 11:55:00 +0800
 categories: [Mind, Body]
-tags: [asanas, mindfulness, ]
+tags: [pregnancy, mindfulness ]
 pin: true
 img_path: '/posts/20180809'
 ---
