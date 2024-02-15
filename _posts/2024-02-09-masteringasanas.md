@@ -1,5 +1,5 @@
 ---
-title: Mastering Asanas
+title: Mastering Asanas 
 author: Yuj
 date: 2024-01-09 12:55:00 +0800
 categories: [Mind, Body]
@@ -48,3 +48,5 @@ Asanas can be classified based on their application:
 ## Conclusion
 
 Asanas are a powerful tool for transforming the body and mind. By practicing with awareness and intention, we can progress through the four levels of mastery and experience the profound benefits of asanas. Let's embrace this journey of self-discovery and unlock the transformative power within.
+
+Namaskar!🙏✨

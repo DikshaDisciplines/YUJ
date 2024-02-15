@@ -102,3 +102,5 @@ img_path: '/posts/20180809'
 - **Create a positive environment:** Meditate on the type of child you wish to create and the joy of pregnancy.
 
 - **Avoid heating practices:** Limit bhastrika, kapalbhati, agnisar, and uddiyan bandha to avoid potential miscarriage.
+
+Namaskar!🙏✨

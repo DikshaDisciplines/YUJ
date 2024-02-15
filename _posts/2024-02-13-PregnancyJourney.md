@@ -65,3 +65,5 @@ Yoga offers a profound and holistic approach to supporting women throughout thei
 - **Improved concentration:** Yoga enhances your focus and clarity, which can be beneficial during pregnancy.
 
 - **Conscious birthing:** Yoga helps you develop the awareness and strength needed for a conscious and empowered birth experience.
+
+Namaskar!🙏✨

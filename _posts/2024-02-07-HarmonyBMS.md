@@ -35,3 +35,5 @@ Hatha Yoga is not merely a system of physical postures; it's a comprehensive sci
 ## Embrace the Journey of Transformation
 
 Mudras and bandhas are powerful tools that can transform your yoga practice and your life. Embrace these techniques with an open heart and a willingness to explore the depths of your being. As you delve into the world of mudras and bandhas, you'll discover a path to greater consciousness, energy mastery, and spiritual awakening.
+
+Namaskar!🙏✨

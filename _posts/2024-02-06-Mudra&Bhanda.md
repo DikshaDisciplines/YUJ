@@ -1,5 +1,5 @@
 ---
-title: Mudras & Bandhas
+title: What is the purpose of Mudras & Bandhas? Its Benefits
 author: Yuj
 date: 2024-02-06 10:55:00 +0800
 categories: [Mind, Soul]
@@ -33,3 +33,5 @@ To master Bandhas, it's essential to first develop proficiency in Asana (physica
 What's fascinating is that practicing mudras and Bandhas often leads to a deep meditative state effortlessly. Hatha Yoga, with its emphasis on these practices, becomes a journey of inner purification, strengthening the mind-body connection, and awakening our vital energy.
 
 In essence, Hatha Yoga is not just about physical postures; it's a profound science of self-realization, guiding us towards balance, harmony, and a deeper understanding of ourselves. Embrace the journey! 🙏✨
+
+Namaskar!🙏✨

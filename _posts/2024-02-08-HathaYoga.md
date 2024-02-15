@@ -1,5 +1,5 @@
 ---
-title: Hatha Yoga
+title: What is Hatha Yoga?
 author: Yuj
 date: 2024-02-08 10:55:00 +0800
 categories: [Body, Mind]
@@ -32,3 +32,5 @@ Once the body is cleansed, the text introduces *asanas*, physical postures that 
 
 ## A Path of Transformation and Self-Realization
 *Hatha Yoga Pradipika* is a treasure trove of knowledge and guidance for those seeking to embark on the path of Hatha Yoga. By following the principles and practices outlined in this text, you can purify your body and mind, awaken your inner energy, and experience the transformative power of Hatha Yoga.
+
+Namaskar!🙏✨

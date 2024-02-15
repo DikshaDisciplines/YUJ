@@ -1,5 +1,5 @@
 ---
-title: Asana Practice
+title: How will Asana Practice help in my Transformation
 author: Yuj
 date: 2024-02-09 11:55:00 +0800
 categories: [Soul, Mind]
@@ -41,3 +41,5 @@ Asanas influence, integrate, and harmonize all the levels of our being, known as
 ## Embracing the Transformative Journey 🌟
 
 Asana practice is an invitation to embark on a transformative journey, where we can explore the depths of our being and unlock our full potential. By integrating asanas with awareness and intention, we can harmonize body and mind, release tensions, cultivate emotional well-being, and experience the profound benefits that ripple through all the layers of our existence.
+
+Namaskar!🙏✨
