@@ -1,7 +1,7 @@
 ---
 title: Pregnancy Yoga
 author: Yuj
-date: 2024-01-14 11:55:00 +0800
+date: 2024-02-14 11:55:00 +0800
 categories: [Mind, Body]
 tags: [pregnancy, mindfulness ]
 pin: true

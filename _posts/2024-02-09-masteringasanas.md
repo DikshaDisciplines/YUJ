@@ -1,7 +1,7 @@
 ---
 title: Mastering Asanas 
 author: Yuj
-date: 2024-01-09 12:55:00 +0800
+date: 2024-02-09 12:55:00 +0800
 categories: [Mind, Body]
 tags: [asana, yoga]
 pin: true
