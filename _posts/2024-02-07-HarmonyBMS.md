@@ -1,9 +1,9 @@
 ---
-title: Harmony of Body, Mind, and Spirit
+title: Harmonise your Body, Mind, and Spirit
 author: Yuj
 date: 2024-02-07 11:55:00 +0800
 categories: [Body, Soul]
-tags: [mudras, bandha]
+tags: [mudras, bandhas]
 pin: true
 img_path: '/posts/20180809'
 ---

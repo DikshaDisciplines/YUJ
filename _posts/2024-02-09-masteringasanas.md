@@ -1,5 +1,5 @@
 ---
-title: Mastering Asanas 
+title: Guide to Mastering Asanas
 author: Yuj
 date: 2024-02-09 12:55:00 +0800
 categories: [Mind, Body]

@@ -1,9 +1,9 @@
 ---
-title: Pregnancy Yoga
+title: Guidelines of Yoga during Pregnancy
 author: Yuj
 date: 2024-02-14 11:55:00 +0800
 categories: [Mind, Body]
-tags: [pregnancy, mindfulness ]
+tags: [pregnancy, prenatal]
 pin: true
 img_path: '/posts/20180809'
 ---
