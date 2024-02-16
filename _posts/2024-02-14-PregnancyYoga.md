@@ -1,6 +1,6 @@
 ---
 title: Guidelines of Yoga during Pregnancy
-author: Yuj
+author: cotes
 date: 2024-02-14 11:55:00 +0800
 categories: [Mind, Body]
 tags: [pregnancy, prenatal]

@@ -1,6 +1,6 @@
 ---
 title: Guide to Mastering Asanas
-author: Yuj
+author: cotes
 date: 2024-02-09 12:55:00 +0800
 categories: [Mind, Body]
 tags: [asana, yoga]

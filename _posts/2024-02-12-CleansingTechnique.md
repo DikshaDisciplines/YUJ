@@ -1,6 +1,6 @@
 ---
 title: What are Cleansing Techniques and its benifits
-author: Yuj
+author: cotes
 date: 2024-02-12 11:55:00 +0800
 categories: [Mind, Body]
 tags: [yogic, cleansing, balance]

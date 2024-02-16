@@ -1,6 +1,6 @@
 ---
 title: What is Hatha Yoga? 
-author: Yuj
+author: cotes
 date: 2024-02-08 10:55:00 +0800
 categories: [Body, Mind]
 tags: [hatha, pranayama, transformation, bandhas, mudras]

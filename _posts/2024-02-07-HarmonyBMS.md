@@ -1,6 +1,6 @@
 ---
 title: Harmonise your Body, Mind, and Spirit
-author: Yuj
+author: cotes
 date: 2024-02-07 11:55:00 +0800
 categories: [Body, Soul]
 tags: [mudras, bandhas]

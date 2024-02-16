@@ -1,6 +1,6 @@
 ---
 title: Will Yoga help me in my Pregnancy Journey?
-author: Yuj
+author: cotes
 date: 2024-02-13 11:55:00 +0800
 categories: [Mind, Body]
 tags: [pregnancy, mindfulness]
