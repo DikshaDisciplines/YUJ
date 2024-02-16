@@ -5,7 +5,7 @@ date: 2024-02-09 12:55:00 +0800
 categories: [Mind, Body]
 tags: [asana, yoga]
 pin: true
-img_path: '/posts/20180809'
+image: '/posts/20180809'
 ---
 
 # Asanas: A Journey of Transformation

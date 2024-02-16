@@ -3,9 +3,9 @@ title: Harmonise your Body, Mind, and Spirit
 author: cotes
 date: 2024-02-07 11:55:00 +0800
 categories: [Body, Soul]
-tags: [mudras, bandhas]
+tags: [mudras, bandhas, hatha]
 pin: true
-img_path: '/posts/20180809'
+image: yogamudra1.jpg
 ---
 
 # Mudras and Bandhas: Unveiling the Secrets of Hatha Yoga

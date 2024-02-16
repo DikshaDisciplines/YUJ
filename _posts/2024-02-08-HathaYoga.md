@@ -5,7 +5,7 @@ date: 2024-02-08 10:55:00 +0800
 categories: [Body, Mind]
 tags: [hatha, pranayama, transformation, bandhas, mudras]
 pin: true
-img_path: '/posts/20180809'
+image: YogaHatha.jpg
 ---
 
 # Hatha Yoga Pradipika: Unveiling the Secrets of Hatha Yoga
