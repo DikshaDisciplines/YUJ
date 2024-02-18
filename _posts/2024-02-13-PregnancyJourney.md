@@ -5,7 +5,7 @@ date: 2024-02-13 11:55:00 +0800
 categories: [Mind, Body]
 tags: [pregnancy, mindfulness]
 pin: true
-image: '/posts/20180809'
+img_path: '/posts/20180809'
 ---
 
 ## The Transformative Power of Yoga: A Journey Through Pregnancy and Beyond

@@ -5,7 +5,7 @@ date: 2024-02-12 11:55:00 +0800
 categories: [Mind, Body]
 tags: [yogic, cleansing, balance]
 pin: true
-image: '/posts/20180809'
+img_path: '/posts/20180809'
 ---
 
 # Cleansing Techniques and the Mind: A Path to Purification
