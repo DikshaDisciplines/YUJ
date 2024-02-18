@@ -5,7 +5,7 @@ date: 2024-02-16 11:55:00 +0800
 categories: [Body, Sprit]
 tags: [health, stress, metabolism]
 pin: true
-image: YogaMenstruation.jpg
+image: Y16feb.jpg
 ---
 
 ## Yoga During Menstruation: A Journey of Self-Care and Empowerment
