@@ -2,7 +2,7 @@
 title: Does sitting in a correct Meditative Posture matter? How will i benefit..
 author: cotes
 date: 2024-02-17 22:55:00 +0800
-categories: [Mind, Sprit]
+categories: [Mind, Soul]
 tags: [postures, health, stress, meditation]
 pin: true
 image: Y17feb.jpg

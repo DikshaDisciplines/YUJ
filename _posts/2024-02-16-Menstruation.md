@@ -2,7 +2,7 @@
 title: Shall I do Yoga during Menstruation? What asana can I do? Does it benefit...
 author: cotes
 date: 2024-02-16 11:55:00 +0800
-categories: [Body, Sprit]
+categories: [Body, Soul]
 tags: [health, stress, metabolism]
 pin: true
 image: Y16feb.jpg

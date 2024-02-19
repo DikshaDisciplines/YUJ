@@ -2,7 +2,7 @@
 title: How can i practice Meditation? Tips for a simple Meditation practice...
 author: cotes
 date: 2024-02-18 07:24:00 +0800
-categories: [Mind, Sprit]
+categories: [Mind, Soul]
 tags: [inner peace, health, stress, meditation, self-discovery]
 pin: true
 image: Y18feb.jpg
