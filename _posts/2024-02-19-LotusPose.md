@@ -33,8 +33,8 @@ The Lotus Pose is a classic meditation posture that resembles the blossoming of 
 
 - If it's difficult to cross your legs all the way, start with Half Lotus Pose (Ardha Padmasana), where you only cross one leg.
 - Use cushions or blocks to support your knees and hips if needed.
-- Don't strain your knees. If you feel any pain, release the pose and try again later.
-- Practice regularly to improve your flexibility and comfort in the pose.
+- Don't strain your knees. If you feel any pain, release the asana and try again later.
+- Practice regularly to improve your flexibility and comfort in the asana.
 
 **Precautions:**
 

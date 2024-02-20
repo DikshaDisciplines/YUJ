@@ -1,5 +1,5 @@
 ---
-title: Guidelines of Yoga during Pregnancy
+title: Guidelines and precautions of Yoga during Pregnancy
 author: cotes
 date: 2024-02-14 11:55:00 +0800
 categories: [Mind, Body]
@@ -12,15 +12,15 @@ img_path: '/posts/20180809'
 
 ### Guidelines for a Safe and Nurturing Practice:
 
-- **Protect your belly:** Avoid any poses that compress or overstretch your abdomen.
+- **Protect your belly:** Avoid any asanas that compress or overstretch your abdomen.
 
 - **Prioritize your baby's well-being:** Always practice with your baby's safety in mind.
 
 - **Be gentle and respectful:** Pregnancy is a time for self-care and love. Avoid pushing your limits.
 
-- **Create space and openness:** Choose poses that help you feel relaxed and spacious.
+- **Create space and openness:** Choose asanas that help you feel relaxed and spacious.
 
-- **Listen to your body:** If a pose feels uncomfortable, release it immediately.
+- **Listen to your body:** If a asana feels uncomfortable, release it immediately.
 
 - **Overstretching:** Be mindful of overstretching due to increased relaxin levels.
 
@@ -38,11 +38,11 @@ img_path: '/posts/20180809'
 
 - **Inversions:** Avoid inversions due to possible pressure on your blood vessels and dizziness.
 
-- **Holding poses:** Avoid holding poses for extended periods. Take breaks and move around to prevent blood flow issues.
+- **Holding asanas:** Avoid holding asanas for extended periods. Take breaks and move around to prevent blood flow issues.
 
 - **Moving positions:** Transition slowly from supine to sitting and standing positions.
 
-- **Trust your instincts:** If a pose doesn't feel right, stop it.
+- **Trust your instincts:** If a asana doesn't feel right, stop it.
 
 
 ### Specific Pregnancy Conditions and Cautions:
@@ -53,11 +53,11 @@ img_path: '/posts/20180809'
 
 - **Breech baby:** Avoid squatting after 35 weeks if your baby is breech.
 
-- **Carpal Tunnel Syndrome:** Avoid poses that cause discomfort.
+- **Carpal Tunnel Syndrome:** Avoid asana that cause discomfort.
 
-- **Cervical stitch:** Avoid full squatting poses.
+- **Cervical stitch:** Avoid full squatting asanas.
 
-- **Back pain:** Be gentle with all poses and use cushions for support.
+- **Back pain:** Be gentle with all asanas and use cushions for support.
 
 - **Hemorrhoids:** Avoid full squatting.
 
@@ -67,23 +67,23 @@ img_path: '/posts/20180809'
 
 - **Low blood pressure:** Be cautious when changing positions and avoid standing for long periods.
 
-- **Oedema:** Avoid poses that cause discomfort.
+- **Oedema:** Avoid asanas that cause discomfort.
 
 - **Miscarriage:** Avoid yoga until the 16th week.
 
-- **Palpitations:** Avoid strenuous poses.
+- **Palpitations:** Avoid strenuous asanas.
 
-- **Placenta praevia:** Avoid full squatting and strenuous poses.
+- **Placenta praevia:** Avoid full squatting and strenuous asanas.
 
-- **Pelvic pain:** Avoid wide leg positions and be aware of poses that cause discomfort.
+- **Pelvic pain:** Avoid wide leg positions and be aware of asanas that cause discomfort.
 
 - **Preterm labor:** Avoid squatting and supta vajrasan from 6 months.
 
 - **Rib pain:** Avoid slouching and be mindful of your posture.
 
-- **Sciatica:** Be gentle with all poses and use cushions for support.
+- **Sciatica:** Be gentle with all asanas and use cushions for support.
 
-- **Sacroiliac pain:** Avoid strong poses, wide leg forward bends, and lying on your back for long periods.
+- **Sacroiliac pain:** Avoid strong asanas, wide leg forward bends, and lying on your back for long periods.
 
 - **Symphis pubis pain:** Avoid wide leg stretching positions, lunges, pigeon pose, and horse pose.
 
@@ -91,7 +91,7 @@ img_path: '/posts/20180809'
 
 - **Toxaemia:** Consult your doctor immediately.
 
-- **Varicose veins:** Avoid poses that cause discomfort.
+- **Varicose veins:** Avoid asanas that cause discomfort.
 
 ### Preparing for Conception:
 

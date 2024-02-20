@@ -26,7 +26,7 @@ A well-rounded yoga practice that includes asanas, pranayama, shatkarmas, medita
 
 ## Emotional Healing through Asanas 💖
 
-Asanas have a profound impact on our emotional well-being. By practicing specific poses that target the digestive system, for example, we can alleviate anger and anxiety. Asanas correct imbalances in the body, which in turn can resolve emotional disturbances in the mind.
+Asanas have a profound impact on our emotional well-being. By practicing specific asanas that target the digestive system, for example, we can alleviate anger and anxiety. Asanas correct imbalances in the body, which in turn can resolve emotional disturbances in the mind.
 
 ## Koshas: The Layers of Being 🌈
 

@@ -29,19 +29,19 @@ While yoga can be beneficial during menstruation, there are some guidelines to f
 
 - **Avoid inversions:** Inversions, such as headstands and shoulder stands, can disrupt the natural flow of energy during menstruation.
 
-- **Modify intense poses:** Strong backbends, twists, and standing positions that put pressure on the pelvic region should be avoided or modified.
+- **Modify intense asanas:** Strong backbends, twists, and standing positions that put pressure on the pelvic region should be avoided or modified.
 
-- **Listen to your body:** It's essential to pay attention to how your body feels during menstruation. If a pose causes discomfort, release it and choose a gentler option.
+- **Listen to your body:** It's essential to pay attention to how your body feels during menstruation. If a asana causes discomfort, release it and choose a gentler option.
 
 **Recommended Asanas:**
 
-- **Gentle forward bends:** These poses help massage the abdominal and pelvic region, alleviating congestion and cramping. Examples include Child's Pose and Forward Bend.
+- **Gentle forward bends:** These asanas help massage the abdominal and pelvic region, alleviating congestion and cramping. Examples include Child's Pose and Forward Bend.
 
 - **Gentle twists:** Twists can help relieve back pain and pelvic tension. Try Vakrasana (Twisted Pose) or gentle seated twists.
 
 - **Supported backbends:** Backbends can ease back pain and pelvic discomfort. Practice them with support, such as bolsters or blocks.
 
-- **Leg up the wall:** This pose helps drain stagnant blood from the legs and open the pelvic region.
+- **Leg up the wall:** This asana helps drain stagnant blood from the legs and open the pelvic region.
 
 - **Pranayama:** Deep breathing, alternate nostril breathing, and humming bee breath can help balance emotions and calm the mind.
 
