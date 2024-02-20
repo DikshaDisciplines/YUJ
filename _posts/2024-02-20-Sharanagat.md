@@ -1,7 +1,7 @@
 ---
 title: Unlocking Inner Peace- Embracing Surrender with Sharanagat Mudra
 author: cotes
-date: 2024-02-19 07:24:00 +0800
+date: 2024-02-20 07:24:00 +0800
 categories: [Body, Mind]
 tags: [asanas, surrender, peace, spine, stress]
 pin: true
