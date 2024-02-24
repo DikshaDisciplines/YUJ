@@ -5,7 +5,7 @@ date: 2024-02-19 07:24:00 +0800
 categories: [Body, Mind]
 tags: [asanas, tranquility, peace, stress, meditation, anxiety]
 pin: true
-image: Y19feb.jpg
+image: Y19feb.png
 ---
 
 ## Lotus Pose (Padmasana): A Gateway to Inner Peace and tranquility
