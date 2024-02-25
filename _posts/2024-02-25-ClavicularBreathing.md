@@ -1,5 +1,5 @@
 ---
-title: aa
+title: Pranayama Clavicular Breathing and its benifit.. 
 author: cotes
 date: 2024-02-25 11:55:00 +0800
 categories: [Mind, Body]
@@ -29,7 +29,7 @@ Now that you have learnt about different breathing techniques (Thoracic Breathin
 5. Exhale slowly through your mouth, first relaxing your neck and upper chest, and then your ribcage.
 6. Continue breathing deeply for 5-10 minutes.
 
-### Tips:
+### Precaution:
 
 - If you feel any discomfort in your neck or shoulders, stop practicing clavicular breathing.
 - Clavicular breathing is not as efficient as abdominal or thoracic breathing, so it's best to use it sparingly.
