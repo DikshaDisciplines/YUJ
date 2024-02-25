@@ -8,9 +8,9 @@ pin: true
 img_path:  
 ---
 
-**Clavicular Breathing: A Guide to Expanding Your Awareness**
+# **Clavicular Breathing: A Guide to Expanding Your Awareness**
 
-**What is Clavicular Breathing?**
+## **What is Clavicular Breathing?**
 
 Clavicular breathing is a type of breathing that focuses on expanding the upper lungs. It's often used in combination with thoracic breathing, especially during periods of great stress or when there are obstructive airway problems, such as asthma or emphysema.
 
