@@ -8,7 +8,7 @@ pin: true
 img_path:  
 ---
 
-# Yogic Breathing: A Guide to Maximum Inhalation and Exhalation
+## Yogic Breathing: A Guide to Maximum Inhalation and Exhalation
 
 Yogic breathing is a type of breathing that involves the use of the abdomen, chest, and clavicular region. It's a powerful breathing technique that can help to improve our overall health and well-being.
 
