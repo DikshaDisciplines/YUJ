@@ -5,7 +5,7 @@ date: 2024-02-14 11:55:00 +0800
 categories: [Mind, Body]
 tags: [pregnancy, prenatal]
 pin: true
-image: Y14feb.png
+image: Y14feb.jpg
 ---
 
 ## Pregnancy Yoga: A Journey of Care and Connection
