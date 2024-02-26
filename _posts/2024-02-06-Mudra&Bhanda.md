@@ -5,7 +5,7 @@ date: 2024-02-06 10:55:00 +0800
 categories: [Mind, Soul]
 tags: [mudras, bandhas, kundalini, hatha]
 pin: true
-image: Y06feb.jpg
+image: Y06feb.webp
 ---
 
 # Exploring Mudras & Bandhas in Hatha Yoga

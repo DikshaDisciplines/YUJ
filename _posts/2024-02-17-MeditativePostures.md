@@ -5,7 +5,7 @@ date: 2024-02-17 22:55:00 +0800
 categories: [Mind, Soul]
 tags: [postures, health, stress, meditation]
 pin: true
-image: Y17feb.jpg
+image: Y17feb.webp
 ---
 
 ## Meditative Postures: A Foundation for Inner Peace

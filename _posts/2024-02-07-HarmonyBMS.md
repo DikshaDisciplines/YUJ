@@ -5,7 +5,7 @@ date: 2024-02-07 11:55:00 +0800
 categories: [Body, Soul]
 tags: [mudras, bandhas, hatha]
 pin: true
-image: Y07feb.png
+image: Y07feb.webp
 ---
 
 # Mudras and Bandhas: Unveiling the Secrets of Hatha Yoga
