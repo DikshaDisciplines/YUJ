@@ -5,7 +5,7 @@ date: 2024-02-22 01:55:00 +0800
 categories: [Mind, Body]
 tags: [meditation, mindfulness, pranayama]
 pin: true
-image: Y22feb.jpg
+image: Y22feb.webp
 ---
 
 ## Natural Breathing: Foundation for Mindfulness and Meditation

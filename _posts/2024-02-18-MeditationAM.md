@@ -5,7 +5,7 @@ date: 2024-02-18 07:24:00 +0800
 categories: [Mind, Soul]
 tags: [inner peace, health, stress, meditation, self-discovery]
 pin: true
-image: Y18feb.jpg
+image: Y18feb.webp
 ---
 
 ## Meditation: A Journey of Inner Peace and Self-Discovery
