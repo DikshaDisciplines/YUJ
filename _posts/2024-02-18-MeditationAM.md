@@ -8,15 +8,15 @@ pin: true
 image: Y18feb.webp
 ---
 
-## Meditation: A Journey of Inner Peace and Self-Discovery
+# Meditation: A Journey of Inner Peace and Self-Discovery
 
 During menstruation, your sensitivity and awareness are heightened, making it an ideal time for meditation. Here's a simple and insightful guide to help you embark on this journey:
 
-**Antar Mouna: The Practice of Inner Silence**
+## **Antar Mouna: The Practice of Inner Silence**
 
 Antar mouna is a powerful meditation technique that involves observing your thoughts without judgment or suppression. It helps you release mental tension, confront fears, and achieve a state of inner peace.
 
-**Six Stages of Antar Mouna:**
+## **Six Stages of Antar Mouna:**
 
 1. **Awareness of Sense Perceptions:** Notice the sensations in your body and the sounds around you. Be present and fully aware, without analyzing or judging.
 
@@ -30,7 +30,7 @@ Antar mouna is a powerful meditation technique that involves observing your thou
 
 6. **Psychic Symbol Awareness:** Create an image of your personal psychic symbol, such as a deity, mantra, or flower. Focus on this symbol to deepen your meditation and reach a higher state of awareness.
 
-**Tips for Practice:**
+## **Tips for Practice:**
 
 - Start with short sessions and gradually increase the duration.
 - Sit in a comfortable position with your spine erect.

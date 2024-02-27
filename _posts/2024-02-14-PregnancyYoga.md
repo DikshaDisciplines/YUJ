@@ -8,9 +8,9 @@ pin: true
 image: Y14feb.webp
 ---
 
-## Pregnancy Yoga: A Journey of Care and Connection
+# Pregnancy Yoga: A Journey of Care and Connection
 
-### Guidelines for a Safe and Nurturing Practice:
+## Guidelines for a Safe and Nurturing Practice:
 
 - **Protect your belly:** Avoid any asanas that compress or overstretch your abdomen.
 
@@ -45,7 +45,7 @@ image: Y14feb.webp
 - **Trust your instincts:** If a asana doesn't feel right, stop it.
 
 
-### Specific Pregnancy Conditions and Cautions:
+## Specific Pregnancy Conditions and Cautions:
 
 - **Bleeding:** Consult your doctor before practicing yoga.
 
@@ -93,7 +93,7 @@ image: Y14feb.webp
 
 - **Varicose veins:** Avoid asanas that cause discomfort.
 
-### Preparing for Conception:
+## Preparing for Conception:
 
 - **Physical and mental preparation:** Take at least three months to prepare for conception through yoga, diet, and lifestyle changes.
 

@@ -8,11 +8,11 @@ pin: true
 img_path: '/posts/20180809'
 ---
 
-## The Transformative Power of Yoga: A Journey Through Pregnancy and Beyond
+# The Transformative Power of Yoga: A Journey Through Pregnancy and Beyond
 
 Yoga offers a profound and holistic approach to supporting women throughout their pregnancy journey and beyond. Here's how yoga can benefit you:
 
-### Before Conception
+## Before Conception
 
 - **Prepares your body, mind, and spirit:** Yoga helps you cultivate physical strength, emotional balance, and spiritual readiness for the journey of conception.
 
@@ -24,9 +24,9 @@ Yoga offers a profound and holistic approach to supporting women throughout thei
 
 - **Enhances spiritual growth:** Yoga supports your spiritual development, fostering a deep connection with your inner self and the miracle of life.
 
-### During Pregnancy
+## During Pregnancy
 
-#### Physical Benefits:
+### Physical Benefits:
 
 - **Increased flexibility:** Yoga improves your range of motion, making it easier to accommodate your growing belly.
 
@@ -50,7 +50,7 @@ Yoga offers a profound and holistic approach to supporting women throughout thei
 
 - **Increased energy levels:** Yoga boosts your energy levels, helping you cope with the demands of pregnancy.
 
-#### Emotional and Spiritual Benefits:
+### Emotional and Spiritual Benefits:
 
 - **Reduced anxiety and stress:** Yoga helps manage stress and anxiety, promoting emotional well-being.
 
