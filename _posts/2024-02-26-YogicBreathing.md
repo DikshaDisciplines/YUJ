@@ -1,5 +1,5 @@
 ---
-title: Unlocking Vitality- The Art of Yogic Breathing for Optimal Health and Wellness
+title: Yogic Breathing - The Art of Yogic Breathing for Optimal Health and Wellness.. 
 author: cotes
 date: 2024-02-26 11:55:00 +0800
 categories: [Mind, Body]
