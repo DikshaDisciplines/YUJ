@@ -5,7 +5,7 @@ date: 2024-02-11 11:55:00 +0800
 categories: [Body, Mind]
 tags: [breathing, pranayama]
 pin: true
-img_path: '/posts/20180809'
+image: Y11feb23.webp
 ---
 
 # Pranayama: The Art of Conscious Breathing 🌬️
