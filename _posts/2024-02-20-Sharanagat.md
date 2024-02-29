@@ -5,7 +5,7 @@ date: 2024-02-20 07:24:00 +0800
 categories: [Body, Mind]
 tags: [asanas, surrender, peace, spine, stress]
 pin: true
-image: 
+image: Y20feb23.webp
 ---
 
 # Sharanagat Mudra: The Gesture of Surrender
