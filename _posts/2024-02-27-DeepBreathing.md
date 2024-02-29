@@ -1,5 +1,5 @@
 ---
-title: Unlock Your Potential- Harness the Power of Deep Breathing for Optimal Well-being
+title: Unlock Your Potential with Pranayama - Harness the Power of Deep Breathing for Optimal Well-being
 author: cotes
 date: 2024-02-27 11:55:00 +0800
 categories: [Mind, Body]

@@ -5,7 +5,7 @@ date: 2024-02-09 11:55:00 +0800
 categories: [Soul, Mind]
 tags: [asana, pranayama, transformation, koshas]
 pin: true
-img_path: 
+image: Y9feb23.webp
 ---
 
 # Purpose of Asana Practice: A Journey of Transformation 🧘‍♂️
