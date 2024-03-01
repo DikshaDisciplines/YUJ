@@ -3,7 +3,7 @@ title: Harmonise your Body, Mind, and Spirit
 author: cotes
 date: 2024-02-07 11:55:00 +0800
 categories: [Body, Soul]
-tags: [mudras, bandhas, hatha]
+tags: [mudras, bandhas, hatha yoga]
 pin: true
 image: Y07feb.webp
 ---

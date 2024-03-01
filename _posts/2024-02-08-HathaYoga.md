@@ -3,7 +3,7 @@ title: What is Hatha Yoga?
 author: cotes
 date: 2024-02-08 10:55:00 +0800
 categories: [Body, Mind]
-tags: [hatha, pranayama, transformation, bandhas, mudras]
+tags: [hatha yoga, pranayama, transformation, purification, bandhas, mudras]
 pin: true
 image: Y08feb.webp
 ---

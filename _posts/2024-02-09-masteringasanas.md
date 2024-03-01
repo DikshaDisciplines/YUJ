@@ -3,7 +3,7 @@ title: Guide to Mastering Asanas
 author: cotes
 date: 2024-02-09 12:55:00 +0800
 categories: [Mind, Body]
-tags: [asana, yoga]
+tags: [asana, stability]
 pin: true
 image: Y09feb.webp
 ---

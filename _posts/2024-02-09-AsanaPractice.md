@@ -2,7 +2,7 @@
 title: How will Asana Practice help in my Transformation
 author: cotes
 date: 2024-02-09 11:55:00 +0800
-categories: [Soul, Mind]
+categories: [Body, Mind]
 tags: [asana, pranayama, transformation, koshas]
 pin: true
 image: Y9feb23.webp

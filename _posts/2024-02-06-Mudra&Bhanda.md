@@ -2,8 +2,8 @@
 title: What are Mudras and Bandhas? Its Benefits
 author: cotes
 date: 2024-02-06 10:55:00 +0800
-categories: [Mind, Soul]
-tags: [mudras, bandhas, kundalini, hatha]
+categories: [Mind, Body]
+tags: [mudras, bandhas, kundalini, hatha yoga, pranic energy]
 pin: true
 image: Y06feb.webp
 ---
