@@ -3,7 +3,7 @@ title: Beat the Heat with Pranayama - Mastering Cooling Breath for Holistic Heal
 author: cotes
 date: 2024-03-02 10:28:00 +0800
 categories: [Mind, Body]
-tags: [meditation, pranayama, sheetali, sitkari, kaki mudra] 
+tags: [meditation, pranayama] 
 pin: true
 image: 
 ---
