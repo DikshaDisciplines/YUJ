@@ -8,7 +8,7 @@ pin: true
 image: 
 ---
 
-# Bhastrika Breath: The Energizing Bellows Breath
+# Revitalize Your Body and Mind with Bhastrika Breath: The Dynamic Path to Inner Vitality
 
 ## Introduction:
 
