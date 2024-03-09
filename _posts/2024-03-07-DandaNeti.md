@@ -3,7 +3,7 @@ title: Discover the Refreshing Benefits of Danda Neti Cleansing technique
 author: cotes
 date: 2024-03-07 20:28:00 +0800
 categories: [Mind, Body]
-tags: [cleansing] 
+tags: [cleansing technique] 
 pin: true
 image: 
 ---

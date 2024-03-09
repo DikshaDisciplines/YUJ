@@ -3,7 +3,7 @@ title: What are Cleansing Techniques and its benefits
 author: cotes
 date: 2024-02-12 11:55:00 +0800
 categories: [Mind, Body]
-tags: [yogic, cleansing, balance]
+tags: [yogic, cleansing technique, balance]
 pin: true
 img_path: '/posts/20180809'
 ---

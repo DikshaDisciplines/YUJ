@@ -3,7 +3,7 @@ title: Revitalize and Rebalance- Exploring the Healing Potential of Vaman Dhouti
 author: cotes
 date: 2024-03-08 20:28:00 +0800
 categories: [Mind, Body]
-tags: [cleansing] 
+tags: [cleansing technique] 
 pin: true
 image: 
 ---
