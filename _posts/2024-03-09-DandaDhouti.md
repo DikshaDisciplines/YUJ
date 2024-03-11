@@ -1,5 +1,5 @@
 ---
-title: Unlocking Vitality - Exploring the Depths of Cleansing with Danda Dhout
+title: Unlocking Vitality - Exploring the Depths of Cleansing with Danda Dhouti
 author: cotes
 date: 2024-03-09 18:11:00 +0800
 categories: [Mind, Body]
