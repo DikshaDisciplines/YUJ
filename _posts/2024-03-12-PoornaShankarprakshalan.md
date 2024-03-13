@@ -1,5 +1,5 @@
- ---
-title:Revitalize Your Digestive Health: The Ultimate Poorna Shankarprakshalan Detox Guide
+---
+title: Revitalize Your Digestive Health- The Ultimate Poorna Shankarprakshalan Detox Guide
 author: cotes
 date: 2024-03-12 18:08:00 +0800
 categories: [Mind, Body]
