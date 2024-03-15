@@ -27,7 +27,11 @@ Once the body is cleansed, the text introduces *asanas*, physical postures that 
 ## Bandhas: Energy Locks for Transformation
 *Bandhas*, or energy locks, are essential for *pranayama* practice. These techniques involve contracting specific muscles to redirect and intensify the flow of prana. The three main *bandhas* are *jalandhar bandha* (chin lock), *moola bandha* (root lock), and *uddiyana bandha* (abdominal lock). These locks help to stabilize the body and mind during *pranayama* and meditation.
 
-## Mudras: Gestures for Inner Transformation
+## Mudras: Gestures for Inner 
+
+
+
+
 *Mudras* are symbolic gestures or mental attitudes that induce a state of *pratyahara* (sense withdrawal) and lead to spontaneous meditation. *Hatha Yoga Pradipika* describes various *mudras*, including *vajroli mudra*, *sahajoli mudra*, *khechari mudra*, *shambhavi mudra*, and *viparita karani*. These *mudras* help to focus the mind, calm the nervous system, and awaken the inner energy.
 
 ## A Path of Transformation and Self-Realization
