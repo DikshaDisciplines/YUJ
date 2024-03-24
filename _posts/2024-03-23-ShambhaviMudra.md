@@ -1,7 +1,7 @@
 ---
 title: Shambhavi Mudra - Unlock the Gateway to Inner Vision and Well-being for Clarity, Calm, and Connection
 author: cotes
-date: 2024-03-23 17:40:00 +0800
+date: 2024-03-23 17:11:00 +0800
 categories: [Mind, Body]
 tags: [bandha, inner power, vitality, health] 
 pin: true
