@@ -3,7 +3,7 @@ title: Shambhavi Mudra - Unlock the Gateway to Inner Vision and Well-being for C
 author: cotes
 date: 2024-03-23 17:11:00 +0800
 categories: [Mind, Body]
-tags: [bandha, inner power, vitality, health] 
+tags: [shambhavi mudra, inner power, vitality, health] 
 pin: true
 image: 
 ---

@@ -3,7 +3,7 @@ title: Exploring Agochari Mudra- Cultivating Inner Peace, Stability, and Spiritu
 author: cotes
 date: 2024-03-18 20:00:00 +0800
 categories: [Mind, Body]
-tags: [mudras, inner power, vitality, health] 
+tags: [mudra, inner power, vitality, health] 
 pin: true
 image: 
 ---

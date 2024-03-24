@@ -3,7 +3,7 @@ title: Maha Mudra - The Great Psychic Attitude
 author: cotes
 date: 2024-03-20 17:40:00 +0800
 categories: [Mind, Body]
-tags: [bandha, inner power, vitality, health] 
+tags: [mudra, inner power, vitality, health] 
 pin: true
 image: 
 ---

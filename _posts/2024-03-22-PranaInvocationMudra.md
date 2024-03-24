@@ -3,7 +3,7 @@ title: Prana Invocation Mudra- Awaken Your Life Force for Vitality, Well-being, 
 author: cotes
 date: 2024-03-22 17:40:00 +0800
 categories: [Mind, Body]
-tags: [bandha, inner power, vitality, health] 
+tags: [mudra, inner power, vitality, health] 
 pin: true
 image: 
 ---

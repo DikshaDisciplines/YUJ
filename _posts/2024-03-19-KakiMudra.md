@@ -3,7 +3,7 @@ title: Kaki Mudra- The Crow Gesture for Digestion, Rejuvenation, and Vitality
 author: cotes
 date: 2024-03-19 20:00:00 +0800
 categories: [Mind, Body]
-tags: [mudras, inner power, vitality, health] 
+tags: [mudra, inner power, vitality, health] 
 pin: true
 image: 
 ---

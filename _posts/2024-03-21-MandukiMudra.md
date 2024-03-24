@@ -3,7 +3,7 @@ title: Elevate Your Well-being - The Transformative Power of Manduki Mudra
 author: cotes
 date: 2024-03-21 17:40:00 +0800
 categories: [Mind, Body]
-tags: [bandha, inner power, vitality, health] 
+tags: [mudra, inner power, vitality, health] 
 pin: true
 image: 
 ---
