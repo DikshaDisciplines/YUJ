@@ -3,7 +3,7 @@ title: ChakkiChalan - The Mill Grinding Pose for Core Strength, Hip Flexibility,
 author: cotes
 date: 2024-03-31 12:11:00 +0800
 categories: [Mind, Body]
-tags: [hip flexibility, strengthens core, spinal flexibility, strengthens legs] 
+tags: [hip flexibility, core strength, spinal flexibility, strengthens legs] 
 pin: true
 image: 
 ---
